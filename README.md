@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -  introductory_sales_analysis_by_pandas           |  -This is data analysis conducted using pandas on assumed sales data              | https://github.com/musah29/introductory_sales_analysis_by_pandas.git      |
+| 2 |  -new_york_city_parking_violations             |  -This was an individual analysis conducted using pandas as part of the Azubi Africa data analytics boot camp phase            | https://github.com/musah29/new_york_city_parking_violations.git      |
+| 3 |  -stock_simulation_bootcamp1             |  -This is a stock simulation task             | https://github.com/musah29/stock_simulation_bootcamp1.git   |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
